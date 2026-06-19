@@ -1,2 +1,6 @@
 # Portfolio-pelajar
-portfolio ringkas pelajar
+Nama :
+Kelas :
+Program: 
+Cita - Cita: 
+Hobi:
